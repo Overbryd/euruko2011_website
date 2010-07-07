@@ -21,8 +21,8 @@
 #header a:hover {
   background:#393939;
 }
-#content {
-  border-right: 1px solid grey;
+#main {
+  background:repeat-y url("../images/content_bg.gif");
 }
 #sidebar {
   color:#666;

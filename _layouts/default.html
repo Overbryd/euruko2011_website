@@ -12,7 +12,7 @@
         <a href="/">Home</a>
       </div>
     </div>
-    <div class="container">
+    <div id="main" class="container">
       <div id="content" class="span-16">
         {{ content }}
       </div>
@@ -31,8 +31,8 @@
         <ul class="nolist">
           {% for post in site.posts limit:15 %}
             <li>
+              <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
               <a href="{{ post.url }}">
-                <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
                 {{ post.title }}
               </a>
             </li>
