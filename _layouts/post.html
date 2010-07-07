@@ -3,10 +3,9 @@ layout: default
 ---
 
 <div class="post">
-  <h1>
+  <h1 class="title">
     {{ page.title }}
-    <span class="title">{{ page.date | date: "%b %Y" }}</span>
-    <span class="day">{{ page.date | date: "%d" }}</span>
+    <sup class="date">{{ page.date | date: "%b %Y" }}</sup>
   </h1>
   {{ content }}
 </div>
