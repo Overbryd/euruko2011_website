@@ -35,6 +35,9 @@
 #sidebar {
   color:#666;
 }
+.post .title, #sidebar h3 {
+  color:#003;
+}
 .post .title .date {
   font-size:0.75em;
   color:#bbb;
