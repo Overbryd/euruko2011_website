@@ -1,31 +1,35 @@
 .rubylove {
-  color:#C31E2A;
+  color:#C31E2A !important;
   font-size:1.5em;
 }
 #header {
   background:#333;
   height:36px;
   line-height:36px;
-  margin-bottom:40px;
   border-bottom:2px solid #ccc;
 }
-#header a {
+#header a, #header p {
   display:inline-block;
   font-size: 16px;
-  color: #C31E2A;
   padding:0 20px 0 20px;
   height:35px;
   border-right:1px solid #313131;
   border-top:1px solid #414141;
   border-left:1px solid #414141;
+  color:#ccc;
+}
+#header p {
+  
 }
 #header a.last {
   border-right:none;
 }
 #header a:hover {
+  color: #C31E2A;
   background:#393939;
 }
 #main {
+  padding-top:40px;
   background:repeat-y url("../images/content_bg.gif");
 }
 #sidebar {
@@ -34,4 +38,11 @@
 .post .title .date {
   font-size:0.75em;
   color:#bbb;
+}
+.orga {
+  height:150px;
+  margin-bottom:20px;
+}
+.orga h3 {
+  margin-bottom:none;
 }
