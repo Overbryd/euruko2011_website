@@ -1,0 +1,33 @@
+#header {
+  background:#333;
+  height:36px;
+  line-height:36px;
+  margin-bottom:40px;
+  border-bottom:2px solid #ccc;
+}
+#header a {
+  display:inline-block;
+  font-size: 16px;
+  color: #C31E2A;
+  padding:0 20px 0 20px;
+  height:35px;
+  border-right:1px solid #313131;
+  border-top:1px solid #414141;
+  border-left:1px solid #414141;
+}
+#header a.last {
+  border-right:none;
+}
+#header a:hover {
+  background:#393939;
+}
+#content {
+  border-right: 1px solid grey;
+}
+#sidebar {
+  color:#666;
+}
+.post .title .date {
+  font-size:0.75em;
+  color:#bbb;
+}

@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1>
+    {{ page.title }}
+    <span class="title">{{ page.date | date: "%b %Y" }}</span>
+    <span class="day">{{ page.date | date: "%d" }}</span>
+  </h1>
+  {{ content }}
+</div>

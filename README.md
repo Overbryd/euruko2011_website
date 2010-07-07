@@ -1,4 +1,4 @@
-# This is the Euruko 2011 Website
+# This is the EuRuKo 2011 Website
 
 It has a very interesting publication cycle.
 Authors are collaborators to this repository, and so they can push their changes to it.

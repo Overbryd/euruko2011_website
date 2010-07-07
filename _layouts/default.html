@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/blueprint.css" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/screen.css" />
+  </head>
+  <body>
+    <div id="header">
+      <div class="container">
+        <a href="/">Home</a>
+      </div>
+    </div>
+    <div class="container">
+      <div id="content" class="span-16">
+        {{ content }}
+      </div>
+      <div id="sidebar" class="prepend-1 span-6 last">
+        <h3>EuRuKo 2011</h3>
+        <p class="small"><img class="left" src="images/ruby_64.png"/>
+          EuRuKo is annual conference about the Ruby programming language with informal atmosphere and lots of opportunities to listen, to talk, to hack and to have fun.<p>
+        <h3>Follow for Updates</h3>
+        <p>
+          <a href="http://twitter.com/euruko2011">@twitter</a>
+          <a href="http://github.com/Overbryd/euruko2011_website">@github</a>
+          <a href="/atom.xml">@atom</a>
+        </p>
+        
+        <h3>Latest announcements</h3>
+        <ul class="nolist">
+          {% for post in site.posts limit:15 %}
+            <li>
+              <a href="{{ post.url }}">
+                <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
+                {{ post.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
