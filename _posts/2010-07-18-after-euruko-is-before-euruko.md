@@ -7,7 +7,7 @@ EuRuKo 2010 was a an amazing and memorable event organized by an awesome team. A
 ![Singing bolle](/images/bolle1.jpg)
 ![Singing bolle](/images/bolle2.jpg)
 
-And it worked. The gong has been passed on to us and successfully found its way to Berlin. Since then we formed a team of organizers and supporters striving to make EuRuKo 2011 the best EuRuKo ever.
+And it worked. The gong has been passed on to us and successfully found its way to Berlin. Since then, we've formed a team of organizers and supporters, striving to continue the series of great conferences with the unique EuRuKo feeling.
 
 ![The gong being passed on](/images/gong_passing.jpg)
 
