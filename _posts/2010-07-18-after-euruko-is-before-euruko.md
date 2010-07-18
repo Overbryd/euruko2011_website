@@ -2,7 +2,7 @@
 layout: post
 title: After EuRuKo is before EuRuKo
 ---
-EuRuKo 2010 was a an amazing and memorable event organized by an awesome team. A small group of Rubyists dressed in colorful shirts set out to bring EuRuKo 2011 to Berlin. To win the audience over, we sang our hearts out performing 'Bolle reiste jüngst' on stage in exuberant fashion.
+EuRuKo 2010 was an amazing and memorable event organized by an awesome team. A small group of Rubyists dressed in colorful shirts set out to bring EuRuKo 2011 to Berlin. To win the audience over, we sang our hearts out performing 'Bolle reiste jüngst' on stage in exuberant fashion.
 
 ![Singing bolle](/images/bolle1.jpg)
 ![Singing bolle](/images/bolle2.jpg)
