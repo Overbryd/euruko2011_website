@@ -5,12 +5,12 @@ title: EuRuKo 2011
 
 <ul class="posts">
   {% for post in site.posts limit:15 %}
-    <div class="post">
+    <li class="post">
       <h3 class="title">
         {{ post.title }}
         <sup class="date">{{ post.date | date: "%b %Y" }}</sup>
       </h3>
       {{ post.content }}
-    </div>
+    </li>
   {% endfor %}
 </ul>

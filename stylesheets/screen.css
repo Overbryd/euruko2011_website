@@ -35,6 +35,11 @@
 #sidebar {
   color:#666;
 }
+
+ul.posts li.post {
+  list-style: none;
+}
+
 .post .title, #sidebar h3 {
   color:#003;
 }
