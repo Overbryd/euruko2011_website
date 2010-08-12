@@ -14,16 +14,17 @@
   border-bottom:2px solid #ccc;
 }
 #header .container {
-  width:825px;
-  padding-right:125px;
+  width:850px;
+  padding-right:100px;
 }
 #header a, #header p {
-  display:inline-block;
+  float:left;
+  display:block;
   font-size: 16px;
   padding:0 20px 0 20px;
+  margin:0;
   height:35px;
   border-right:1px solid #313131;
-  border-top:1px solid #414141;
   border-left:1px solid #414141;
   color:#ccc;
 }
