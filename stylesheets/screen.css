@@ -2,11 +2,20 @@
   color:#C31E2A !important;
   font-size:1.5em;
 }
+#ribbon {
+  position:relative;
+  width:100%;
+  min-width:950px;
+}
 #header {
   background:#333;
   height:36px;
   line-height:36px;
   border-bottom:2px solid #ccc;
+}
+#header .container {
+  width:825px;
+  padding-right:125px;
 }
 #header a, #header p {
   display:inline-block;
@@ -17,9 +26,6 @@
   border-top:1px solid #414141;
   border-left:1px solid #414141;
   color:#ccc;
-}
-#header p {
-  
 }
 #header a.last {
   border-right:none;
