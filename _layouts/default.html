@@ -50,7 +50,7 @@
         
         <h3>Latest announcements</h3>
         <ul class="nolist">
-          {% for post in site.posts limit:15 %}
+          {% for post in site.posts limit:5 %}
             <li>
               <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
               <a href="{{ post.url }}">

@@ -43,8 +43,14 @@
   color:#666;
 }
 
+h4 {
+  color:#666;
+}
+
 ul.posts li.post {
   list-style: none;
+  margin-bottom:2.25em;
+  border-bottom:1px dotted #ddd;
 }
 
 .post .title, #sidebar h3 {
