@@ -7,7 +7,7 @@ title: EuRuKo 2011
   {% for post in site.posts limit:15 %}
     <li class="post">
       <h3 class="title">
-        {{ post.title }}
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         <sup class="date">{{ post.date | date: "%b %Y" }}</sup>
       </h3>
       {{ post.content }}

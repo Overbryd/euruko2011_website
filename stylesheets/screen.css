@@ -56,6 +56,15 @@ ul.posts li.post {
 .post .title, #sidebar h3 {
   color:#003;
 }
+
+.post .title a {
+  color:#003;
+  text-decoration: none;
+}
+.post .title a:hover {
+  text-decoration: underline;
+}
+
 .post .title .date {
   font-size:0.75em;
   color:#bbb;
