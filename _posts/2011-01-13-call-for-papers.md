@@ -5,7 +5,7 @@ title: Call for Papers
 
 I'm very happy to announce the Call for Papers for the EuRuKo 2011. This summer (28th to 29th of May) we are going to have yet another amazing community built conference, in the middle of Europes most happening city Berlin.
 
-Say, you have researched something about Ruby, developed a gem, found a unique usage for Ruby or you had a life challenging experience with Ruby. What would be a better opportunity to talk about it on the European Ruby conference?
+Say, you have researched something about Ruby, developed a gem, found a unique usage for Ruby or you had a life changing experience with Ruby. What would be a better opportunity to talk about it on the European Ruby conference?
 We would love to hear from you!
 
 **Submit your talk proposal until 22nd of February to [talks@euruko2011.org](mailto:talks@euruko2011.org).**
