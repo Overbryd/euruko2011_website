@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Call for Proposals
+title: Call for Papers
 ---
 
-We are very happy to announce the Call for Proposals for EuRuKo 2011.
+We are very happy to announce the Call for Papers for EuRuKo 2011.
 
 So you have researched something about Ruby, developed a gem, found a unique usage for Ruby or you had a life-changing experience with Ruby. What would be a better opportunity to talk about it than the next European Ruby conference?
 
