@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Call for Papers
+description: What would be a better opportunity to talk about your Ruby experience than the next European Ruby conference?
 ---
 
 We are very happy to announce the Call for Papers for EuRuKo 2011.
