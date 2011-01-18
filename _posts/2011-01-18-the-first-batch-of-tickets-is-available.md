@@ -9,7 +9,7 @@ Tickets will be sold in batches so that everyone gets multiple chances to buy a 
 
 The first batch of tickets to go on sale **today** are 30 supporter tickets, at 300 € (plus 19% german VAT).
 If you decide to buy a supporter ticket, you will become an **official sponsor** of EuRuKo 2011,
-and we will put your logo on the website. See the [sponsoring brochure][http://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Fge.tt%2F5EKdlmm%2Feuruko_sponsorenbroschu%25CC%2588re_v03_rz_110118.pdf] for more information.
+and we will put your logo on the website. See the [sponsoring brochure](http://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Fge.tt%2F5EKdlmm%2Feuruko_sponsorenbroschu%25CC%2588re_v03_rz_110118.pdf) for more information.
 
 We want to keep the price of regular tickets as low as possible, to create an event
 that is easily affordable for everyone in the Ruby community. EuRuKo is a non-profit event,
