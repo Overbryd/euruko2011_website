@@ -7,7 +7,7 @@ Today, we would like to tell you how the ticket sale is going to work.
 There will be two types of tickets: regular tickets, and supporter tickets (for micro sponsors).
 Tickets will be sold in batches so that everyone gets multiple chances to buy a ticket.
 
-The first batch of tickets to go on sale **today** are 30 supporter tickets, at 300 € (plus 19% german VAT).
+The first batch of tickets to go on sale **today** are 30 supporter tickets, at 300 € _(357 € incl. 19% German VAT)_.
 If you decide to buy a supporter ticket, you will become an **official sponsor** of EuRuKo 2011,
 and we will put your logo on the website. See the [sponsoring brochure](http://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Fge.tt%2F5EKdlmm%2Feuruko_sponsorenbroschu%25CC%2588re_v03_rz_110118.pdf) for more information.
 
