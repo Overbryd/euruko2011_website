@@ -9,7 +9,7 @@ It's been a while since we last posted an update on our blog. But here it is, an
 
 Pull out your calendar and mark this date (or [follow our event on Plancast](http://plancast.com/p/3gf4)):
 
-## 28th to 29th of May
+### 28th to 29th of May
 ![Kino International](/images/locations/international.jpg)
 
 Besides that, we have a contract with the location where the conference is taking place. And this took us way longer than we expected. But the time was worth it, because next year's conference will be held in a cinema!

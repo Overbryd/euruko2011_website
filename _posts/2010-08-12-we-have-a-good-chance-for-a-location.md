@@ -20,13 +20,13 @@ Cheers,
 
 Lukas
 
-#### Pictures from thursday's meeting
+### Pictures from thursday's meeting
 
 ![Tim, John – 12th August 2010](/images/meetings/12aug_1.jpg)
 ![Manuel, Lukas – 12th August 2010](/images/meetings/12aug_2.jpg)
 ![Tim – 12th August 2010](/images/meetings/12aug_3.jpg)
 
-#### Some insights of our favourite location so far
+### Some insights of our favourite location so far
 
 ![???](/images/locations/insight_1.jpg)
 ![???](/images/locations/insight_2.jpg)

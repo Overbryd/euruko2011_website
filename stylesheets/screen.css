@@ -3,31 +3,37 @@
   font-size:1.5em;
 }
 #ribbon {
-  position:relative;
+  position:absolute;
   width:100%;
   min-width:950px;
+  top:0;
 }
 #header {
-  background:#333;
-  height:36px;
-  line-height:36px;
-  border-bottom:2px solid #ccc;
+  left: 765px;
+  position: absolute;
+  top: 100px;
 }
 #header .container {
   width:850px;
   padding-right:100px;
 }
 #header a, #header p {
-  float:left;
+  font-family: "chainprinter-1", "chainprinter-2", arial;
   display:block;
   font-size: 16px;
   padding:0 20px 0 20px;
   margin:0;
   height:35px;
-  border-right:1px solid #313131;
-  border-left:1px solid #414141;
   color:#ccc;
 }
+#header a {
+  color: #B9A046;
+  text-decoration: none;
+}
+#header p {
+  margin-top: 2em;
+}
+
 #header a.last {
   border-right:none;
 }
@@ -37,10 +43,33 @@
 }
 #main {
   padding-top:40px;
-  background:repeat-y url("../images/content_bg.gif");
 }
 #sidebar {
-  color:#666;
+  color:#fff;
+}
+#sidebar h3 {
+  color: #B9A046;
+  margin-top: 40px;
+}
+#sidebar a {
+  color: #B9A046;
+}
+
+#content {
+  background: #fff;
+  -webkit-box-shadow: #fff 0 0 5px;
+  -moz-box-shadow: #fff 0 0 5px;
+  -ms-box-shadow: #fff 0 0 5px;
+  -o-box-shadow: #fff 0 0 5px;
+  box-shadow: #fff 0 0 5px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 h4 {
@@ -53,16 +82,22 @@ ul.posts li.post {
   border-bottom:1px dotted #ddd;
 }
 
-.post .title, #sidebar h3 {
-  color:#003;
+#content p img {
+  max-width: 100%;
 }
 
-.post .title a {
-  color:#003;
-  text-decoration: none;
+#content p {
+  font-size: 13px;
+  margin: 1em 35px 1em 70px;
 }
-.post .title a:hover {
-  text-decoration: underline;
+
+#content a {
+  color: #95232d;
+}
+
+#content h1,
+#content h3 {
+  margin: 1em 35px 1em 70px;
 }
 
 .post .title .date {
@@ -73,6 +108,24 @@ ul.posts li.post {
   height:150px;
   margin-bottom:20px;
 }
+.orga img {
+  margin-left: 70px;
+}
 .orga h3 {
   margin-bottom:none;
+}
+
+h1,
+h3 a {
+  color: #95232d;
+  font-family: "chainprinter-1", "chainprinter-2", arial;
+}
+
+html {
+  background: url(/images/background.jpg) #95232d repeat;
+}
+
+body {
+  background: url(/images/logo.jpg) no-repeat;
+  padding-top: 420px;
 }

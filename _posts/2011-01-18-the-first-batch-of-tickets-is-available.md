@@ -19,7 +19,7 @@ this is why we offer the supporter tickets first.
 If you want to become a sponsor of EuRuKo 2011 and support the Ruby community, then
 please consider buying a supporter ticket:
 
-### [http://euruko2011.stagehq.com/events/595/booking/new](http://euruko2011.stagehq.com/events/595/booking/new)
+**[http://euruko2011.stagehq.com/events/595/booking/new](http://euruko2011.stagehq.com/events/595/booking/new)**
 
 Last but not least, we would also like to thank [Linkingpaths](http://linkingpaths.com/) –
 the smart minds behind the event booking application [StageHQ](http://www.stagehq.com/).
