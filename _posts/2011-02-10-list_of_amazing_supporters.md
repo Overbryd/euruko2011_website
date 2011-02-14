@@ -1,6 +1,6 @@
 ---
 layout: post
-title: list_of_amazing_supporters
+title: list of amazing supporters
 ---
 
 A Big “Thank You”
