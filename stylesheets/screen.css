@@ -129,3 +129,10 @@ body {
   background: url(/images/logo.jpg) no-repeat;
   padding-top: 420px;
 }
+
+.supporters a {
+  display: block;
+  margin: 15px 0;
+  text-align: center;
+  width: 180px;
+}
