@@ -105,20 +105,36 @@ ul.posts li.post {
   color:#bbb;
 }
 .orga {
-  height:150px;
+  height: 90px;
+  width: 300px;
   margin-bottom:20px;
 }
 .orga img {
-  margin-left: 70px;
+  float: left;
+  margin: 0 10px 0 70px;
 }
-.orga h3 {
-  margin-bottom:none;
+#content .orga h3 {
+  color: #95232d;
+  margin: 0;
+  font-family: "chainprinter-1", "chainprinter-2", arial;
+}
+.orga h3 a {
+  display: block;
+}
+.orga h3 a:first-child {
+  text-decoration: none;
 }
 
 h1,
 h3 a {
   color: #95232d;
   font-family: "chainprinter-1", "chainprinter-2", arial;
+}
+
+h2 {
+  clear: both;
+  font-family: "chainprinter-1", "chainprinter-2", arial;
+  margin: 1em 35px 1em 70px;
 }
 
 html {
