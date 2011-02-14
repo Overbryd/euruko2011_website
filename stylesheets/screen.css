@@ -8,14 +8,17 @@
   min-width:950px;
   top:0;
 }
+.container {
+  margin: 0 0 0 106px;
+}
 #header {
   left: 765px;
   position: absolute;
   top: 100px;
 }
 #header .container {
-  width:850px;
-  padding-right:100px;
+  width: 250px;
+  margin: 0;
 }
 #header a, #header p {
   font-family: "chainprinter-1", "chainprinter-2", arial;
@@ -80,6 +83,10 @@ ul.posts li.post {
   list-style: none;
   margin-bottom:2.25em;
   border-bottom:1px dotted #ddd;
+}
+
+.post ul {
+  margin-left: 80px;
 }
 
 #content p img {
