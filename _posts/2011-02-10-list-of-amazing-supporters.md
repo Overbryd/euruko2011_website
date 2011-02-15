@@ -15,7 +15,7 @@ Supporter tickets are almost sold out now. So we would like to take a moment and
 * Stephan Kämper
 * [Selleo](http://selleo.com)
 * [GaldoMedia](http://galdomedia.pl)
-* Roland Moriz
+* [Moriz GmbH](http://moriz.de/)
 * [Railslove](http://railslove.com)
 * [LAUNCH/CO](http://launchco.com)
 * [New Bamboo](http://new-bamboo.co.uk)
