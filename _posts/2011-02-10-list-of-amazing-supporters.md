@@ -30,6 +30,6 @@ Supporter tickets are almost sold out now. So we would like to take a moment and
 * [tuxwerk](http://tuxwerk.de)
 * [Shopify](http://shopify.com)
 * [Elabs](http://elabs.se)
-* [artweb design](http://artweb-design.de)
+* [Sven Fuchs](http://svenfuchs.com)
 
 If you want to join this list, hurry up -- just a handful of supporter tickets are still available.
