@@ -19,7 +19,7 @@ Supporter tickets are almost sold out now. So we would like to take a moment and
 * [Railslove](http://railslove.com)
 * [LAUNCH/CO](http://launchco.com)
 * [New Bamboo](http://new-bamboo.co.uk)
-* Fritz Thielemann
+* [Cileos] (http://www.cileos.com)
 * [NinjaConcept](http://ninjaconcept.com)
 * [mSALES](http://msales.com)
 * [Upstream Agile](http://upstre.am)
