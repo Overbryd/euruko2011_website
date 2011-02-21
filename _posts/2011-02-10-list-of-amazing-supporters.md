@@ -19,7 +19,7 @@ Supporter tickets are almost sold out now. So we would like to take a moment and
 * [Railslove](http://railslove.com)
 * [LAUNCH/CO](http://launchco.com)
 * [New Bamboo](http://new-bamboo.co.uk)
-* [Cileos] (http://www.cileos.com)
+* [Cileos](http://www.cileos.com)
 * [NinjaConcept](http://ninjaconcept.com)
 * [mSALES](http://msales.com)
 * [Upstream Agile](http://upstre.am)
@@ -31,5 +31,7 @@ Supporter tickets are almost sold out now. So we would like to take a moment and
 * [Shopify](http://shopify.com)
 * [Elabs](http://elabs.se)
 * [Sven Fuchs](http://svenfuchs.com)
+* Thomas Ochmann
+* [PaperC](http://www.paperc.de)
 
 If you want to join this list, hurry up -- just a handful of supporter tickets are still available.
