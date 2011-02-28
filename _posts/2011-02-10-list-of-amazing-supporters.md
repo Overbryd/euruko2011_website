@@ -5,7 +5,7 @@ title: list of amazing supporters
 
 A Big “Thank You”
 
-Supporter tickets are almost sold out now. So we would like to take a moment and say thank you to the following people and companies for supporting EuRuKo 2011:
+Supporter tickets are sold out now. So we would like to take a moment and say thank you to the following people and companies for supporting EuRuKo 2011:
  
 * [SponsorPay](http://sponsorpay.com)
 * [ProRuby](http://www.prorubyteam.com/)
@@ -33,5 +33,4 @@ Supporter tickets are almost sold out now. So we would like to take a moment and
 * [Sven Fuchs](http://svenfuchs.com)
 * Thomas Ochmann
 * [PaperC](http://www.paperc.de)
-
-If you want to join this list, hurry up -- just a handful of supporter tickets are still available.
+* [RailsHoster](http://www.railshoster.de)
