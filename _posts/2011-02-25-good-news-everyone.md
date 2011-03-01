@@ -2,6 +2,8 @@
 layout: post
 title: Good news, everyone!
 ---
+UPDATE: We also accept PayPal now.
+
 The first regular tickets will finally go on sale next Tuesday.
 
 EuRuKo tickets sold out on the first day last year. Therefore, we have decided to offer the tickets in multiple batches this time, so everybody will have a chance (or rather multiple chances) to grab one.
@@ -12,7 +14,8 @@ Here are the facts about the first regular batch:
 * time: **20:00 UTC** -- that means 21:00 local time in cities like Berlin, Krakow, Barcelona, Prague, Vienna ... check [everytimezone.com](http://everytimezone.com)
 * price: 36 € (including 19% German VAT)
 * quantity: 50 tickets
-* payment: credit cards **only**
+* <s>payment: credit cards **only**</s>
+* payment: credit cards, paypal
 
 ### Where can I buy my ticket? 
 
