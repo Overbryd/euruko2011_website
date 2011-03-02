@@ -31,6 +31,6 @@ Supporter tickets are sold out now. So we would like to take a moment and say th
 * [Shopify](http://shopify.com)
 * [Elabs](http://elabs.se)
 * [Sven Fuchs](http://svenfuchs.com)
-* Thomas Ochmann
+* [AKRA GmbH](http://www.akra.de)
 * [PaperC](http://www.paperc.de)
 * [RailsHoster](http://www.railshoster.de)
