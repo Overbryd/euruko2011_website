@@ -10,7 +10,7 @@ Supporter tickets are sold out now. So we would like to take a moment and say th
 * [SponsorPay](http://sponsorpay.com)
 * [ProRuby](http://www.prorubyteam.com/)
 * Michał Czyż 
-* Lukas Fittl
+* [The Efficient Cloud](http://efficientcloud.net/)
 * [9flats](http://www.9flats.com/)
 * Stephan Kämper
 * [Selleo](http://selleo.com)
