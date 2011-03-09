@@ -1,3 +1,7 @@
+body {
+  color: #3A3000;
+}
+
 .rubylove {
   color:#C31E2A !important;
   font-size:1.5em;
@@ -83,13 +87,9 @@
   padding-bottom: 20px;
 }
 
-h4 {
-  color:#666;
-}
-
 ul.posts li.post {
   list-style: none;
-  margin-bottom:2.25em;
+  margin-bottom: 4em;
 }
 
 .post ul {
@@ -107,6 +107,12 @@ ul.posts li.post {
 
 #content a {
   color: #95232d;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#content a:hover {
+  text-decoration: underline;
 }
 
 #content h1,
@@ -117,6 +123,17 @@ ul.posts li.post {
 
 h1 {
   font-size: 60px;
+}
+
+.post li {
+  font-size: 13px;
+}
+
+#content h3 ~ h3 {
+  color: #7E6C1E;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 2em 35px 1em 70px;
 }
 
 .date {
