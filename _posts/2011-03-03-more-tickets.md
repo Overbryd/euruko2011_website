@@ -13,8 +13,8 @@ Please register here if you plan to attend the conference:
 
 ### And here are the details for the next two batches:
 
-* Sunday, 2010-03-06, 13:00 CET -- 100 Tickets
-* Wednesday, 2010-03-09, 18:00 CET -- 100 Tickets
+* Sunday, 2011-03-06, 13:00 CET -- 100 Tickets
+* Wednesday, 2011-03-09, 18:00 CET -- 100 Tickets
 
 The booking page is the same as last time:
 
