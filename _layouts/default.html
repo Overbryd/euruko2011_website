@@ -1,16 +1,16 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8">
     <title>{{ page.title }}</title>
-{% if page.description %}    <meta name="description" content="{{ page.description }}" />{% endif %}
-    <link rel="stylesheet" type="text/css" href="/stylesheets/blueprint.css" />
-    <link rel="stylesheet" type="text/css" href="/stylesheets/screen.css" />
-    <link rel="alternate" type="application/atom+xml" title="ATOM feed" href="http://euruko2011.org/feed.atom" />
-    <link rel="alternate" type="application/atom+xml" title="github feed" href="http://github.com/Overbryd/euruko2011_website/commits/master.atom" />
-    <yyylink rel="icon" type="image/x-icon" href="/favicon.ico" />
-    <script type="text/javascript" src="http://use.typekit.com/gxb3nfq.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <link rel="stylesheet" href="/stylesheets/blueprint.css">
+    <link rel="stylesheet" href="/stylesheets/screen.css">
+    <link rel="alternate" type="application/atom+xml" title="ATOM feed" href="http://euruko2011.org/feed.atom">
+    <link rel="alternate" type="application/atom+xml" title="github feed" href="http://github.com/Overbryd/euruko2011_website/commits/master.atom">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <script src="http://use.typekit.com/gxb3nfq.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
   </head>
   <body>
     <div id="header">
@@ -87,11 +87,9 @@
         </ul>
       </div>
     </div>
-    <script type="text/javascript">
+    <script>
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
       try{
         var pageTracker = _gat._getTracker("UA-17079644-1");
         pageTracker._trackPageview();
