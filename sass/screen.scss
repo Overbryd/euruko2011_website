@@ -1,4 +1,8 @@
+@import "compass";
 @import "partials/blueprint";
+
+$yellow: #D5BA51;
+$red: #95232D;
 
 body {
   color: #3A3000;
@@ -262,3 +266,5 @@ body {
   float: left;
   margin: 0 10px 0 0;
 }
+
+@import "partials/speakers";

@@ -1,0 +1,63 @@
+#speakers {
+  position: relative;
+  z-index: 1;
+  .person {
+    background: lighten($yellow, 40%);
+    float: left;
+    left: -50px;
+    margin-right: -50px;
+    position: relative; 
+    @include box-shadow(
+      rgba(#5b5043, 0.3) 0 1px 4px,
+      rgba(#d3ccc3, 0.5) 0 0 5px inset
+    );
+    @include border-radius(2px);
+    &:before {
+      bottom: 5px;
+      content: ' ';
+      left: 0;
+      position: absolute;
+      right: 0;
+      top: 5px;
+      z-index: -2;
+      @include box-shadow(rgba(#5b5043, 0.4) 0 0 10px);
+      @include border-radius(5px, 50%);
+    }
+    &:after {
+      content: " ";
+      left: 10px;
+      height: 100px;
+      position: absolute;
+      top: 10px;
+      width: 100px;
+      z-index: 20;
+      @include box-shadow(lighten($yellow, 40%) 0 0 5px inset);
+    }
+  }
+  img {
+    margin: 10px 10px 16px;
+    @include box-shadow(
+      rgba(#5b5043, 0.1) 0 1px 5px
+    );
+    @include border-radius(2px);
+  }
+  p,
+  h2,
+  h3 {
+    clear: none;
+    margin-left: 100px;
+  }
+  h3 {
+    font-family: "chainprinter-1", "chainprinter-2", arial;
+    color: $yellow;
+  }
+  h2 {
+    font-size: 40px;
+    line-height: 1.1em;
+    margin: 0 0 0 100px;
+  }
+  li {
+    list-style: none;
+    margin-top: 40px;
+  }
+}
