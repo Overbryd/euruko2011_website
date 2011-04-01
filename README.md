@@ -35,3 +35,12 @@ You can do this by cloning this repository and running Jekyll:
     jekyll --server
     
     open http://localhost:4000/
+
+## Editing stylesheets
+
+Edit in sass/*.scss only, run:
+
+    bundle
+    bundle exec compass watch
+
+to compile Sass sources to CSS files.

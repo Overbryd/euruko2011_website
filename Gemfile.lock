@@ -1,0 +1,14 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    chunky_png (1.1.0)
+    compass (0.11.beta.5)
+      chunky_png (~> 1.1.0)
+      sass (>= 3.1.0.alpha.249)
+    sass (3.1.0.alpha.252)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  compass (= 0.11.beta.5)
