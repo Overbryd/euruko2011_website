@@ -13,6 +13,6 @@ we kept you on tenterhooks for quite some time, we know. First, thanks again to 
 Before announcing the first speakers we would like to give you an overview of what to expect this year. The most fundamental decision we took early on was to focus on ruby. We rejected great speakers and topics, which didn't deal with ruby, but it's very likely that you will see these talks on other occasions. We also think that the Euruko should be a stepping stone for interesting new speakers, so instead of playing it safe we accepted quite a bunch of them and some veterans have to take a break. And last but not least we wanted diversity: You can expect hardware hacking, bit shifting, game scaling, movie making, data pushing and more.
 
 
-So go and checkout what [Elise Huard](/speakers.html#Elise-Huard) and [Federico Brubacher](/speakers.html#Federico-Brubacher) will talk about in our new speakers section. 
+So go and checkout what [Pat Allan](/speakers.html#Pat-Allan), [Ben Langfeld / Ben Klang](/speakers.html#Ben-Langfeld), [Nick Sutterer](/speakers.html#Nick-Sutterer), [Bodo Tasche](/speakers.html#Bodo-Tasche) and [Lourens Naudé](/speakers.html#Lourens-Naude) will talk about in our new speakers section. 
 
 We will announce more speakers in the following days.
