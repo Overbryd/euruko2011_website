@@ -16,3 +16,7 @@ Before announcing the first speakers we would like to give you an overview of wh
 So go and checkout what [Pat Allan](/speakers.html#Pat-Allan), [Ben Langfeld / Ben Klang](/speakers.html#Ben-Langfeld), [Nick Sutterer](/speakers.html#Nick-Sutterer), [Bodo Tasche](/speakers.html#Bodo-Tasche) and [Lourens Naudé](/speakers.html#Lourens-Naude) will talk about in our new speakers section. 
 
 We will announce more speakers in the following days.
+
+-- Update 05. April
+
+You can now find info about the talks of [Federico Brubacher](/speakers.html#Federico-Brubacher), [Thorben Schröder](/speakers.html#Thorben-Schroeder), [Karel Minařík](/speakers.html#Karel-Minarik) and [Kornelius Kalnbach](/speakers.html#Kornelius-Kalnbach)
