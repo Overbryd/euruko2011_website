@@ -20,3 +20,9 @@ We will announce more speakers in the following days.
 -- Update 05. April
 
 You can now find info about the talks of [Federico Brubacher](/speakers.html#Federico-Brubacher), [Thorben Schröder](/speakers.html#Thorben-Schroeder), [Karel Minařík](/speakers.html#Karel-Minarik) and [Kornelius Kalnbach](/speakers.html#Kornelius-Kalnbach)
+
+-- Update 08. April
+
+We getting close to the finish. Here are the latest speakers:
+[Paolo Perrotta](/speakers.html#Paolo-Perrotta), 
+[Elise-Huard](/speakers.html#Elise-Huard), [David Calavera](/speakers.html#David-Calavera) and [José Valim](/speakers.html#Jose-Valim).
