@@ -26,3 +26,8 @@ You can now find info about the talks of [Federico Brubacher](/speakers.html#Fed
 We getting close to the finish. Here are the latest speakers:
 [Paolo Perrotta](/speakers.html#Paolo-Perrotta), 
 [Elise-Huard](/speakers.html#Elise-Huard), [David Calavera](/speakers.html#David-Calavera) and [José Valim](/speakers.html#Jose-Valim).
+
+-- Update 12. April
+
+As good as done. Here are the last speakers:
+[Julik Tarkhanov](/speakers.html#Julik-Tarkhanov), [Jesper Richter-Reichhelm](/speakers.html#Jesper-Richter-Reichhelm), [Mateusz Drożdżyński](/speakers.html#Mateusz-Drozdzynski). Grand finale, keynote speakers. 
