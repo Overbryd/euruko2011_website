@@ -18,7 +18,7 @@ Supporter tickets are sold out now. So we would like to take a moment and say th
 * [Moriz GmbH](http://moriz.de/)
 * [Railslove](http://railslove.com)
 * [LAUNCH/CO](http://launchco.com)
-* [New Bamboo](http://new-bamboo.co.uk)
+* [Pusher](http://pusher.com)
 * [Cileos](http://www.cileos.com)
 * [NinjaConcept](http://ninjaconcept.com)
 * [mSALES](http://msales.com)

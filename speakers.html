@@ -155,10 +155,10 @@ title: Speakers
     <h3>Karel Minařík</h3>
     <h2>Your Data, Your Search</h2>
     <p>
-      Karel Minařík is as a web development mercenary doing consulting work in Ruby/Rails and evangelizing about CouchDB, Git, NoSQL and distributed architectures. You can find more about him at http://karmi.cz.
+      Karel Minařík is as a web development mercenary doing consulting work in Ruby/Rails and evangelizing about CouchDB, Git, NoSQL and distributed architectures. You can find more about him at <a href="http://karmi.cz">karmi.cz</a>.
     </p>
     <p>
-      His talk will focus on search, generally, and on ElasticSearch (http://elasticsearch.org) specifically. For many people, the primary entrance to the web is search: epitomized by the Google input box. Yet, search features of majority of web applications are very rudimentary, not allowing rich search queries, geo search or complex faceted navigation/aggregation.
+      His talk will touch search in general and focus on <a href="http://elasticsearch.org">ElasticSearch</a>, a promising search engine and database, which fully embraces HTTP, understands JSON and comes with advanced distributed features. It's “elastic” both in the sense of working with data, as well as horizontal scaling, and its purpose is to make advanced search features, such as geo search and complex faceted navigation/aggregation widely available.
     </p>
   </li>
   
@@ -173,13 +173,13 @@ title: Speakers
       Kornelius Kalnbach (a.k.a. murphy) is a Ruby programmer born
       in Berlin. He is in love with Ruby-chan since 2002. He also
       loves regular expressions and syntax highlighting. Thus he is tinkering with
-      the CodeRay librar. He works as a Rails developer since 2007,
+      the CodeRay library. He works as a Rails developer since 2007,
       currently for <a href="http://sofatutor.com">sofatutor.com</a>.<br/>
       His other interests include user interfaces, design, philosophy, Shadowrun,
       and he believes there's a ghost in the shell.
     </p>
     <p>
-      In his talk Kornelius will explain how the CodeRay manages to outperform
+      In his talk Kornelius will explain how CodeRay manages to outperform
       other syntax highlighting libraries with pure Ruby code. After comparing
       performance on different Ruby platforms, he will show the key concepts
       of fast scanning. Visualizing some advanced ideas for further speedups,
@@ -187,9 +187,22 @@ title: Speakers
       multi-core processors.
     </p>
   </li>
+  <li>
+    <a name="David-Calavera"></a>
+    <div class="person">
+      <img src="images/speakers/david-calavera.jpg" alt="David Calavera"/>
+    </div>
+    <h3>David Calavera</h3>
+    <h2>JRuby Hacking Guide</h2>
+    <p>
+      David had a great idea for a pet project once. The same day he started to work on it he had to send a patch to the JRuby project. A hundred of bugs fixed later he became a member of the JRuby Core Team.
+    </p>
+    <p>
+      In his talk we’ll learn how to deal with the JRuby internal code from a more rubist and friendly point of view. Guided by tests we’ll discover what’s hidden underneath and we’ll learn how we can also start to contribute easily.
+    </p>
+  </li>
   
-  
-  <!-- <li>
+  <li>
     <a name="Elise-Huard"></a>
     <div class="person">
       <img src="images/speakers/elise-huard.jpg" alt="Elise Huard"/>
@@ -198,37 +211,67 @@ title: Speakers
     <h2>Actors on Stage</h2>
     <p>
       After her studies in metallurgy, Elise realized a job in that area was 
-      not her cup of tea, and she looked for jobs in an earlier interest, software.
-      
-      10 years in it have helped her get a firm understanding on what works 
+      not her cup of tea, so she looked for jobs in an earlier interest, software.
+      10 years in software have helped her get a firm understanding on what works 
       and what will make you cry blood and tears on nights before deadlines.
-
       She’s a jack of all trades, loves reading, tinkering, food, travel, 
       learning, and people out of the ordinary.
-      
+    </p>
+    <p>
       In her talk she will explore several ways to implement the actor model in Ruby. The talk will also allude to the fact that threads in Ruby should ideally have separate state, so that all programs using threads could also use the actor model (or other similar concurrency models).
     </p>
   </li>
-  
   <li>
-    <a name="Federico-Brubacher"></a>
+    <a name="Paolo-Perrotta"></a>
     <div class="person">
-      <img src="images/speakers/frederico-brubacher.jpg" alt="Frederico Brubacher"/>
+      <img src="images/speakers/paolo-perrotta.jpg" alt="Paolo Perrotta"/>
     </div>
-    <h3>Federico Brubacher</h3>
-    <h2>The Expression Problem in Ruby: A focus on Traits.</h2>
+    <h3>Paolo Perrotta</h3>
+    <h2>The Revenge of method_missing()</h2>
     <p>
-      Federico Brubacher is a Rails engineer from Uruguay, a language lover
-      and a proponent of going where no man has gone before. 
-      
-      He has many contributions to open source and at Cubox he helps mostly 
-      startups to archive their objectives.
-      
-      This talk will introduce you on what the expression problem is, and
-      why it is relevant in Ruby. We then will explain which alternatives
-      are idiomatic in Ruby and analyze pros and cons of each of them. We
-      will advocate for Traits which are basically local mixins.
+      Paolo "Nusco" Perrotta worked for a dozen years as a developer and
+      writer, in domains ranging from embedded to enterprise software,
+      computer games, and web applications. By day, he earns his food as a
+      trainer, mentor and agile coach for large corporations. At night, he
+      likes to get his hands dirty with code.
     </p>
-  </li> -->
+    <p>
+      Nusco wrote the Metaprogramming Ruby book for the Pragmatic
+      Programmers. After establishing himself as a premier expert on the
+      subject, he was dissed by other rubyists for being a method_missing() fanboy.
+    </p>
+    <p>
+      Convinced that nobody can bully method_missing() and get away with it,
+      Nusco resolved to present a talk about it. When is method_missing()
+      appropriate, and when should you pick an alternative metaprogramming
+      magic spell instead? Is method_missing() really dangerous? What are
+      the common method_missing() pitfalls, and how can you avoid them?
+    </p>
+  </li>
+  <li>
+    <a name="Jose-Valim"></a>
+    <div class="person">
+      <img src="images/speakers/jose-valim.jpg" alt="José Valim"/>
+    </div>
+    <h3>José Valim</h3>
+    <h2>Writing your own programming language to understand Ruby better</h2>
+    <p>
+      José Valim (<a href="http://twitter.com/josevalim">@josevalim</a>) is a Rails Core
+      member and author of <a href="http://pragprog.com/titles/jvrails/crafting-rails-applications">Crafting Rails
+      Applications</a>.
+      Also, he is the lead-developer of <a href="http://blog.plataformatec.com">Plataforma</a> Tec,
+      a Ruby on Rails consultancy firm based in Brazil. He started working with
+      Ruby in late 2006 and since then he's been working on several <a href="http://github.com/josevalim">open source
+      projects</a>.
+    </p>
+    <p>
+      In this talk, José Valim will share what he has learned about Ruby while
+      writing a small programming language. He will discuss the basic structure of
+      a programming language, how to mimic part of Ruby behavior using only
+      functions and debate about the Ruby's parser, Object Model, methods,
+      closures and blocks.
+    </p>
+  </li>
+  
   
 </ul>
