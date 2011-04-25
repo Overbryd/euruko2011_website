@@ -16,6 +16,11 @@ Here are some hand picked places where you can sleep while being in Berlin for E
 * [Odyssee Hostel](http://www.globetrotterhostel.de)
 * [Circus Hostel](http://www.circus-berlin.de/0/circus_company.html)
 
+### Couch
+Berlin has an active couch surfing scene with a monthly meet-up.
+
+* [Couchsurfing](http://www.couchsurfing.org/)
+* [The Hospitality Club](http://www.hospitalityclub.org/)
 
 ### Hotels
 * [Circus Hostel](http://www.circus-berlin.de/0/circus_company.html)
