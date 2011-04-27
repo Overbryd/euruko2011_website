@@ -28,13 +28,20 @@ Berlin has an active couch surfing scene with a monthly meet-up.
 * [Motel One Berlin](http://www.motel-one.com/uk/motel-one-search/berlin/hotel-berlin-alexanderplatz.html)
 
 ### Other Places
-I you look for other places, we recommend that you stay in the districts Mitte, Friedrichshain, Northern Kreuzberg or Southern Prenzlauerberg. If you rather want to stay in an Apartment check out the offers on [9flats](http://9flats.com) or [housetrip](http://housetrip.com).
+I you look for other places, we recommend that you stay in the districts Mitte, Friedrichshain, Northern Kreuzberg or Southern Prenzlauerberg. If you rather want to stay in an Apartment check out the offers on:
+
+* [9flats](http://9flats.com)
+* [housetrip](http://housetrip.com)
+* [AirBnB](http://www.airbnb.com/)
+* [Urban Apartments](http://www.urban-apartments.com/berlin/)
 
 ### Getting around
 
 You can get around in Berlin perfectly with public transports, on the weekend (Fridaynight and Saturday night) all lines operate 24 hours. If you buy a [day ticket Zone AB](http://www.bvg.de/index.php/en/17182/name/Single%2BTickets%2Band%2BDay%2BTicket/article/77357.html) (6,30 Eur) you can use all busses, street cars (Tram), underground (U-Bahn) and S-Bahn the entire day within the city.
 
 To find out connection you can either use the [bvg website](http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/en?ld=0.1&) or use the mobile [FahrInfo](http://itunes.apple.com/us/app/fahrinfo-berlin/id284971745?mt=8) App, where the downloadable route network might come in handy.
+
+Taxis in Berlin are affordable and unlike other cities there are plenty of them. Use the iPhone app [Taxi Berlin](http://itunes.apple.com/de/app/taxi-berlin/id399786921?mt=8) to order one. The application is free and is for the German app store only (of course there are ways around this).
 
 ### Info Map
 <p>
