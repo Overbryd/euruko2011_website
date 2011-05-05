@@ -1,0 +1,12 @@
+table.schedule {
+  thead th {
+    background: #C31E2A;
+    color: white;
+  }
+  tr:nth-child(even) td {
+    background: #ddd;
+  }
+  tr.pause td {
+    color: #222;
+  }
+}

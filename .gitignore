@@ -4,3 +4,4 @@ _config.yml
 .DS_Store
 *.swp
 *.swo
+.sass-cache

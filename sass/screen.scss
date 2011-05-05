@@ -111,6 +111,12 @@ ul.posts li.post {
   margin: 1em 35px 1em 70px;
 }
 
+#content table {
+  width:auto;
+  font-size: 13px;
+  margin: 1em 35px 1em 70px;
+}
+
 #content a {
   color: #95232d;
   font-weight: bold;
@@ -268,3 +274,4 @@ body {
 }
 
 @import "partials/speakers";
+@import "partials/agenda";
