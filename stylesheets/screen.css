@@ -1322,7 +1322,7 @@ body {
 
 /* line 11, ../sass/screen.scss */
 .rubylove {
-  color: #c31e2a !important;
+  color: #C31E2A !important;
   font-size: 1.5em;
 }
 
@@ -1457,35 +1457,42 @@ ul.posts li.post {
 }
 
 /* line 114, ../sass/screen.scss */
+#content table {
+  width: auto;
+  font-size: 13px;
+  margin: 1em 35px 1em 70px;
+}
+
+/* line 120, ../sass/screen.scss */
 #content a {
   color: #95232d;
   font-weight: bold;
   text-decoration: none;
 }
 
-/* line 120, ../sass/screen.scss */
+/* line 126, ../sass/screen.scss */
 #content a:hover {
   text-decoration: underline;
 }
 
-/* line 126, ../sass/screen.scss */
+/* line 132, ../sass/screen.scss */
 #content h1,
 #content h2,
 #content h3 {
   margin: .5em 35px .3em 70px;
 }
 
-/* line 130, ../sass/screen.scss */
+/* line 136, ../sass/screen.scss */
 h1 {
   font-size: 60px;
 }
 
-/* line 134, ../sass/screen.scss */
+/* line 140, ../sass/screen.scss */
 .post li {
   font-size: 13px;
 }
 
-/* line 138, ../sass/screen.scss */
+/* line 144, ../sass/screen.scss */
 #content h3 ~ h3 {
   color: #7E6C1E;
   font-size: 13px;
@@ -1493,7 +1500,7 @@ h1 {
   margin: 2em 35px 1em 70px;
 }
 
-/* line 145, ../sass/screen.scss */
+/* line 151, ../sass/screen.scss */
 .date {
   font-size: 0.5em;
   color: #D5BA51;
@@ -1501,56 +1508,56 @@ h1 {
   white-space: nowrap;
 }
 
-/* line 152, ../sass/screen.scss */
+/* line 158, ../sass/screen.scss */
 .nolist li {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
-/* line 158, ../sass/screen.scss */
+/* line 164, ../sass/screen.scss */
 .nolist .date {
   color: #fff;
   font-size: 100%;
   margin: 0;
 }
 
-/* line 164, ../sass/screen.scss */
+/* line 170, ../sass/screen.scss */
 .nolist .date:after {
   content: ":";
 }
 
-/* line 168, ../sass/screen.scss */
+/* line 174, ../sass/screen.scss */
 .orga {
   height: 90px;
   width: 300px;
   margin-bottom: 20px;
 }
 
-/* line 173, ../sass/screen.scss */
+/* line 179, ../sass/screen.scss */
 .orga img {
   float: left;
   margin: 0 10px 0 70px;
 }
 
-/* line 177, ../sass/screen.scss */
+/* line 183, ../sass/screen.scss */
 #content .orga h3 {
   color: #95232d;
   margin: 0;
   font-family: "chainprinter-1", "chainprinter-2", arial;
 }
 
-/* line 182, ../sass/screen.scss */
+/* line 188, ../sass/screen.scss */
 .orga h3 a {
   display: block;
 }
 
-/* line 185, ../sass/screen.scss */
+/* line 191, ../sass/screen.scss */
 .orga h3 a:first-child {
   text-decoration: none;
 }
 
-/* line 191, ../sass/screen.scss */
+/* line 197, ../sass/screen.scss */
 h1,
 h2,
 h3.title {
@@ -1559,36 +1566,36 @@ h3.title {
   font-size: 60px;
 }
 
-/* line 197, ../sass/screen.scss */
+/* line 203, ../sass/screen.scss */
 #content .title a {
   color: #95232d;
   text-decoration: none;
 }
 
-/* line 202, ../sass/screen.scss */
+/* line 208, ../sass/screen.scss */
 #content .title a:hover {
   color: #D5BA51;
 }
 
-/* line 206, ../sass/screen.scss */
+/* line 212, ../sass/screen.scss */
 h2 {
   clear: both;
   font-family: "chinese-rocks-1", "chinese-rocks-2", helvetica, arial, sans-serif;
   margin: 1em 35px 1em 70px;
 }
 
-/* line 212, ../sass/screen.scss */
+/* line 218, ../sass/screen.scss */
 html {
   background: url(/images/background.jpg) #95232d repeat;
 }
 
-/* line 216, ../sass/screen.scss */
+/* line 222, ../sass/screen.scss */
 body {
   background: url(/images/logo.jpg) no-repeat;
   padding-top: 420px;
 }
 
-/* line 222, ../sass/screen.scss */
+/* line 228, ../sass/screen.scss */
 .su,
 .sp {
   list-style: none;
@@ -1597,7 +1604,7 @@ body {
   overflow: hidden;
 }
 
-/* line 230, ../sass/screen.scss */
+/* line 236, ../sass/screen.scss */
 .sp li,
 .su li {
   float: left;
@@ -1609,7 +1616,7 @@ body {
   width: 100px;
 }
 
-/* line 240, ../sass/screen.scss */
+/* line 246, ../sass/screen.scss */
 .sp li {
   height: auto;
   line-height: auto;
@@ -1617,28 +1624,28 @@ body {
   width: 230px;
 }
 
-/* line 247, ../sass/screen.scss */
+/* line 253, ../sass/screen.scss */
 .su img {
   max-height: 60px;
   max-width: 100px;
   vertical-align: middle;
 }
 
-/* line 253, ../sass/screen.scss */
+/* line 259, ../sass/screen.scss */
 .sp img {
   max-height: 100px;
   max-width: 230px;
   vertical-align: middle;
 }
 
-/* line 259, ../sass/screen.scss */
+/* line 265, ../sass/screen.scss */
 .su a {
   display: block;
   text-align: center;
   width: 100px;
 }
 
-/* line 265, ../sass/screen.scss */
+/* line 271, ../sass/screen.scss */
 .rubyists {
   float: left;
   margin: 0 10px 0 0;
@@ -1737,4 +1744,56 @@ body {
 #speakers li {
   list-style: none;
   margin-top: 40px;
+}
+
+/* line 2, ../sass/partials/_agenda.scss */
+table.schedule thead th {
+  background: #C31E2A;
+  color: white;
+}
+/* line 6, ../sass/partials/_agenda.scss */
+table.schedule tr:nth-child(even) td {
+  background: #ddd;
+}
+/* line 9, ../sass/partials/_agenda.scss */
+table.schedule tr.pause td {
+  color: #222;
+}
+
+/* line 14, ../sass/partials/_agenda.scss */
+#fancybox-content .speaker {
+  visibility: visible;
+}
+
+/* line 17, ../sass/partials/_agenda.scss */
+.speaker {
+  visibility: hidden;
+  position: relative;
+  padding: 0 75px 0 130px;
+}
+/* line 22, ../sass/partials/_agenda.scss */
+.speaker .person {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  height: 100%;
+}
+/* line 28, ../sass/partials/_agenda.scss */
+.speaker h3 {
+  margin: 10px 0;
+}
+/* line 31, ../sass/partials/_agenda.scss */
+.speaker h2 {
+  margin: 15px 0;
+  font-size: 32px;
+}
+
+/* line 37, ../sass/partials/_agenda.scss */
+#fancybox-content #visitor-info-map {
+  visibility: visible;
+}
+
+/* line 40, ../sass/partials/_agenda.scss */
+#visitor-info-map {
+  visibility: hidden;
 }
