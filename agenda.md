@@ -1,7 +1,65 @@
 ---
 layout: default
 title: Agenda – EuRuKo 2011
+javascripts:
+  - "http://code.jquery.com/jquery-1.6.min.js"
+  - "fancybox/jquery.fancybox-1.3.4.pack.js"
+stylesheets:
+  - "fancybox/jquery.fancybox-1.3.4.css"
 ---
+
+<script type="text/javascript">
+  $(function() {
+    var $body = $('<div></div>').hide().appendTo($('body'));
+    
+    $.get('/visitor_info.html', function(data) {
+      $(data).find('#visitor-info-map').appendTo($body);
+      
+      $('a:contains(Visitor Info Map)')
+        .attr('href', '#visitor-info-map')
+        .fancybox({
+          'transitionIn': 'elastic',
+          'transitionOut': 'elastic',
+          'speedIn': 150, 
+          'speedOut': 100, 
+          'overlayShow': false,
+          'hideOnContentClick': true
+        });
+    });
+    
+    $.get('/speakers.html', function(data) {
+      $(data).find('#speakers li').each(function() {
+        var $this = $(this),
+          name = $this.find('h3').text(),
+          domID = $this.find('a:first').attr('name'), //name.toLocaleLowerCase().replace(/[^a-z]/u, '-'),
+          $div = $('<div></div>'),
+          $link = $('<a></a>'),
+          $toggle = $('.schedule td:contains('+name+')');
+                
+        $div
+          .attr({class:'speaker',id:domID})
+          .html($this.html())
+          .appendTo($body);
+        
+        $link
+          .text($toggle.text())
+          .addClass('speaker-link')
+          .attr('href', '#'+domID)
+          .fancybox({
+            'transitionIn': 'elastic',
+            'transitionOut': 'elastic',
+            'speedIn': 150, 
+            'speedOut': 100, 
+            'overlayShow': false,
+            'hideOnContentClick': true
+          });
+        
+        $toggle.html($link);
+      });
+      // $(window.document).trigger('euruko:speakers-loaded');
+    });
+  });
+</script>
 
 ## Friday
 
@@ -90,7 +148,7 @@ You can find it on our [Visitor Info Map](http://goo.gl/maps/gwcZ). The closest 
     <tr>
       <td>17:00</td>
       <td>The Revenge of method_missing()</td>
-      <td>Paolo "Nusco" Perrotta</td>
+      <td>Paolo Perrotta</td>
     </tr>
     <tr>
       <td>17:30</td>
@@ -113,7 +171,9 @@ Getting to the location might be a bit hard. We try to make it easy for you, by 
 # Sunday
 
 ### Schedule
-
+<script type="text/javascript">
+  $('.schedule ')
+</script>
 <table class="schedule">
   <thead>
     <tr>
@@ -145,7 +205,7 @@ Getting to the location might be a bit hard. We try to make it easy for you, by 
     <tr>
       <td>12:15</td>
       <td>Your Data, Your Search</td>
-      <td>Karel Minarik</td>
+      <td>Karel Minařík</td>
     </tr>
     <tr class="pause">
       <td>12:45</td>
@@ -154,7 +214,7 @@ Getting to the location might be a bit hard. We try to make it easy for you, by 
     <tr>
       <td>14:45</td>
       <td>Tales of the Big White Cloud</td>
-      <td>Pat Allen</td>
+      <td>Pat Allan</td>
     </tr>
     <tr>
       <td>15:15</td>
@@ -178,7 +238,7 @@ Getting to the location might be a bit hard. We try to make it easy for you, by 
     <tr>
       <td>17:15</td>
       <td>Writing your own programming language to understand Ruby better</td>
-      <td>Jose Valim</td>
+      <td>José Valim</td>
     </tr>
     <tr>
       <td>17:45</td>

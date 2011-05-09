@@ -1759,3 +1759,41 @@ table.schedule tr:nth-child(even) td {
 table.schedule tr.pause td {
   color: #222;
 }
+
+/* line 14, ../sass/partials/_agenda.scss */
+#fancybox-content .speaker {
+  visibility: visible;
+}
+
+/* line 17, ../sass/partials/_agenda.scss */
+.speaker {
+  visibility: hidden;
+  position: relative;
+  padding: 0 75px 0 130px;
+}
+/* line 22, ../sass/partials/_agenda.scss */
+.speaker .person {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  height: 100%;
+}
+/* line 28, ../sass/partials/_agenda.scss */
+.speaker h3 {
+  margin: 10px 0;
+}
+/* line 31, ../sass/partials/_agenda.scss */
+.speaker h2 {
+  margin: 15px 0;
+  font-size: 32px;
+}
+
+/* line 37, ../sass/partials/_agenda.scss */
+#fancybox-content #visitor-info-map {
+  visibility: visible;
+}
+
+/* line 40, ../sass/partials/_agenda.scss */
+#visitor-info-map {
+  visibility: hidden;
+}

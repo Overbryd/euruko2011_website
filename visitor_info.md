@@ -44,6 +44,8 @@ To find out connection you can either use the [bvg website](http://www.fahrinfo-
 Taxis in Berlin are affordable and unlike other cities there are plenty of them. Use the iPhone app [Taxi Berlin](http://itunes.apple.com/de/app/taxi-berlin/id399786921?mt=8) to order one. The application is free and is for the German app store only (of course there are ways around this).
 
 ### Info Map
-<p>
-<iframe width="530" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=de&amp;oe=UTF8&amp;msa=0&amp;msid=209047120561350687342.0004a1a46a43c49df8c66&amp;ll=52.522697,13.424606&amp;spn=0.036556,0.090981&amp;z=13&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=de&amp;oe=UTF8&amp;msa=0&amp;msid=209047120561350687342.0004a1a46a43c49df8c66&amp;ll=52.522697,13.424606&amp;spn=0.036556,0.090981&amp;z=13&amp;source=embed" style="color:#0000FF;text-align:left">EuRuKo 2011</a> auf einer größeren Karte anzeigen</small>
+<p id="visitor-info-map">
+<iframe width="530" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=de&amp;oe=UTF8&amp;msa=0&amp;msid=209047120561350687342.0004a1a46a43c49df8c66&amp;ll=52.522697,13.424606&amp;spn=0.036556,0.090981&amp;z=13&amp;output=embed"></iframe><br /><small>
+  Show 
+  <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=de&amp;oe=UTF8&amp;msa=0&amp;msid=209047120561350687342.0004a1a46a43c49df8c66&amp;ll=52.522697,13.424606&amp;spn=0.036556,0.090981&amp;z=13&amp;source=embed" style="color:#0000FF;text-align:left">EuRuKo 2011</a> on a bigger map.</small>
 </p>

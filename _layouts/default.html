@@ -5,11 +5,15 @@
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <link rel="stylesheet" href="/stylesheets/screen.css">
+    {% for stylesheet in page.stylesheets %}
+    <link rel="stylesheet" href="{{ stylesheet }}">{% endfor %}
     <link rel="alternate" type="application/atom+xml" title="ATOM feed" href="http://euruko2011.org/feed.atom">
     <link rel="alternate" type="application/atom+xml" title="github feed" href="http://github.com/Overbryd/euruko2011_website/commits/master.atom">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <script src="http://use.typekit.com/gxb3nfq.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
+    {% for script in page.javascripts %}
+    <script src="{{ script }}"></script>{% endfor %}
   </head>
   <body>
     <div id="header">

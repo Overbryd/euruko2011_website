@@ -10,3 +10,33 @@ table.schedule {
     color: #222;
   }
 }
+
+#fancybox-content .speaker {
+  visibility:visible;
+}
+.speaker {
+  visibility:hidden;
+  position:relative;
+  padding:0 75px 0 130px;
+  
+  .person {
+    position:absolute;
+    left:15px;
+    right:15px;
+    height:100%;
+  }
+  h3 {
+    margin:10px 0;
+  }
+  h2 {
+    margin:15px 0;
+    font-size:32px;
+  }
+}
+
+#fancybox-content #visitor-info-map {
+  visibility:visible;
+}
+#visitor-info-map {
+  visibility:hidden;
+}
