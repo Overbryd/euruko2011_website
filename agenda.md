@@ -37,7 +37,7 @@ stylesheets:
           $toggle = $('.schedule td:contains('+name+')');
                 
         $div
-          .attr({class:'speaker',id:domID})
+          .attr({ 'class' : 'speaker', id : domID })
           .html($this.html())
           .appendTo($body);
         
@@ -63,7 +63,7 @@ stylesheets:
 
 ## Friday
 
-<h3></h3>
+<h3>&nbsp;</h3>
 ### Pre Conference Meetup
 
 ![c-base logo](/images/c-base-logo.png)  
