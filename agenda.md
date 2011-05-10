@@ -186,7 +186,7 @@ Getting to the location might be a bit hard. We try to make it easy for you, by 
     <tr>
       <td>10:00</td>
       <td>Keynote</td>
-      <td>Matz</td>
+      <td>Yukihiro Matsumoto</td>
     </tr>
     <tr class="pause">
       <td>11:00</td>
