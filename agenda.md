@@ -164,7 +164,7 @@ You can find it on our [Visitor Info Map](http://goo.gl/maps/gwcZ). The closest 
 ### Party
 
 ![Tante Käthe Logo](/images/tante-kaethe-logo.png)  
-We invite you to party with us and all the EuRuCamp visitors at "Tante Käthe" (aka. "Mauersegler"). This location is a pretty unknown jewel of Berlin located right inside the Mauerpark. As hard as it is to find ([Street View](http://maps.google.de/maps?f=q&source=s_q&hl=de&geocode=&q=mauerpark+berlin&aq=&sll=51.151786,10.415039&sspn=16.735226,33.310547&ie=UTF8&hq=mauerpark&hnear=Berlin&ll=52.540371,13.403385&spn=0.007909,0.016265&z=16&layer=c&cbll=52.540408,13.403523&panoid=v3hyRH1ZE4cC4leMB2qyjw&cbp=12,314.38,,0,0.79)), as fun it will get. There's a barbecue waiting for you, lots of beers and a relaxed atmosphere.
+We invite you to party with us and all the EuRuCamp visitors at "Tante Käthe". This location is a pretty unknown jewel of Berlin located right inside the Mauerpark. As hard as it is to find, as fun it will get. There's a barbecue waiting for you, lots of beers and a relaxed atmosphere.
 
 Getting to the location might be a bit hard. We try to make it easy for you, by providing the possible routes on our [Visitor Info Map](http://goo.gl/maps/oU1Y). We will also provide flyers with exact directions.
 
