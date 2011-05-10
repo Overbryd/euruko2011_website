@@ -94,9 +94,9 @@ You can find it on our [Visitor Info Map](http://goo.gl/maps/gwcZ). The closest 
       <td colspan="2">Welcome</td>
     </tr>
     <tr>
-      <td>09:30</td>
+      <td>09:45</td>
       <td>Keynote</td>
-      <td>Paul Campell</td>
+      <td>Yukihiro Matsumoto</td>
     </tr>
     <tr class="pause">
       <td>10:45</td>
@@ -186,7 +186,7 @@ Getting to the location might be a bit hard. We try to make it easy for you, by 
     <tr>
       <td>10:00</td>
       <td>Keynote</td>
-      <td>Yukihiro Matsumoto</td>
+      <td>Paul Campell</td>
     </tr>
     <tr class="pause">
       <td>11:00</td>
