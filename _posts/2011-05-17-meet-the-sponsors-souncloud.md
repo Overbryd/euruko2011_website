@@ -23,7 +23,7 @@ Check out some of our experiences on our Backstage blog. For example, here's an 
 
 ![Souncd Cloud Office](http://www.wechsellook.com/postFiles/f7859c89-bd90-4e43-bae8-31a11218c251.jpg)
 
-We have a strong focus on our API and its developer ecosystem. To assure the quality of our API and its documentation, we actually eat our own dog food: the iOS, Cocoa and Android development happens in-house. We have also launched a shiny, new developer portal making it easier for developers to get started. Our App Gallery, currently showcases over [150 apps](http://soundcloud.com/apps) by external developers.
+We have a strong focus on our API and its developer ecosystem. To assure the quality of our API and its documentation, we actually eat our own dog food: the iOS, Cocoa and Android development happens in-house. We have also launched [a shiny, new developer portal](http://developers.soundcloud.com) making it easier for developers to get started. Our App Gallery, currently showcases over [150 apps](http://soundcloud.com/apps) by external developers.
 
 Currently there are 30 developers running SoundCloud from Berlin. All major development takes place at "Silicon Rosenthaler Platz" in Mitte. Minor development takes place on our rooftop terrace, and we also have satellite offices in San Francisco and London.
 
