@@ -6,7 +6,7 @@ title: EuRuKo 2012 needs you
 
 Don't worry, we'll refrain from showing a picture of uncle Sam. However, we would like to point out again, that EuRuKo is an event organized by volunteers from the Ruby community. Every year it takes place in a different city somewhere in Europe. That means: EuRuKo 2012 needs a home.
 
-Traditionally, the attendees vote where the next conference will take place. Last year we created t-shirts and even sang on stage for the opportunity to create great a Ruby event in Berlin just for you (and of course to get our hands on the gong).
+Traditionally, the attendees vote where the next conference will take place. Last year we created t-shirts and even sang on stage for the opportunity to create a great Ruby event in Berlin just for you (and of course to get our hands on the gong).
 
 ![Singing bolle](/images/bolles.jpg)
 
