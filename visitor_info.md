@@ -14,13 +14,23 @@ You can get around in Berlin perfectly with public transports, on the weekend (F
 
 To find out connection you can either use the [bvg website](http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/en?ld=0.1&) or use the mobile [FahrInfo](http://itunes.apple.com/us/app/fahrinfo-berlin/id284971745?mt=8) App, where the downloadable route network might come in handy.
 
-Taxis in Berlin are affordable and unlike other cities there are plenty of them. Call +49 30 20 20 20 or use the iPhone app [Taxi Berlin](http://itunes.apple.com/de/app/taxi-berlin/id399786921?mt=8) to order one. The application is free but for the German app store only (of course there are ways around this).
+Taxis in Berlin are affordable and there are plenty of them. Call +49 30 20 20 20 or use the iPhone app [Taxi Berlin](http://itunes.apple.com/de/app/taxi-berlin/id399786921?mt=8) to order one. The application is free but for the German app store only (of course there are ways around this).
 
 ### Info Map
 <p id="visitor-info-map">
-<iframe width="530" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=de&amp;oe=UTF8&amp;msa=0&amp;msid=209047120561350687342.0004a1a46a43c49df8c66&amp;ll=52.522697,13.424606&amp;spn=0.036556,0.090981&amp;z=13&amp;output=embed"></iframe><br /><small>
-  Show 
-  <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=de&amp;oe=UTF8&amp;msa=0&amp;msid=209047120561350687342.0004a1a46a43c49df8c66&amp;ll=52.522697,13.424606&amp;spn=0.036556,0.090981&amp;z=13&amp;source=embed" style="color:#0000FF;text-align:left">EuRuKo 2011</a> on a bigger map.</small>
+
+<iframe width="530" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=209047120561350687342.0004a1a46a43c49df8c66&amp;ll=52.524584,13.424043&amp;spn=0.048369,0.071808&amp;output=embed">
+
+</iframe>
+
+<br />
+
+<small>
+
+View <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=209047120561350687342.0004a1a46a43c49df8c66&amp;ll=52.524584,13.424043&amp;spn=0.048369,0.071808&amp;source=embed" style="color:#0000FF;text-align:left">EuRuKo 2011</a> in a larger map
+
+</small>
+
 </p>
 
 ### Places to stay

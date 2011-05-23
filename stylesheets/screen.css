@@ -1322,7 +1322,7 @@ body {
 
 /* line 11, ../sass/screen.scss */
 .rubylove {
-  color: #C31E2A !important;
+  color: #c31e2a !important;
   font-size: 1.5em;
 }
 
@@ -1791,9 +1791,4 @@ table.schedule tr.pause td {
 /* line 37, ../sass/partials/_agenda.scss */
 #fancybox-content #visitor-info-map {
   visibility: visible;
-}
-
-/* line 40, ../sass/partials/_agenda.scss */
-#visitor-info-map {
-  visibility: hidden;
 }
