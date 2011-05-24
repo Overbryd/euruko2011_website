@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet the sponsors: scalarium
+title: "Meet the sponsors: scalarium"
 ---
 
 [Scalarium.com](http://www.scalarium.com) is one of the main sponsors of EuRuKo 2011 and we would like to talk a bit about what we do.
