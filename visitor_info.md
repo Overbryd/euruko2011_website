@@ -37,7 +37,7 @@ View <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;m
 
 Berlin is packed with great coworking locations. On our visitor info map, we tried to point out coworking spaces with the "green-star-pointer" Icon.
 
-If you are looking for list of spaces, please do a [Hallenproject search for spaces in Berlin](http://hallenprojekt.de/places/search?commit=Suche&locale=en&query=Berlin&view=). Hallenprojekt is an international list of coworking spaces.
+If you are looking for a list of spaces, please do a [Hallenproject search for spaces in Berlin](http://hallenprojekt.de/places/search?commit=Suche&locale=en&query=Berlin&view=). Hallenprojekt is an international list of coworking spaces.
 
 ### Places to stay
 Here are some hand picked places where you can sleep while being in Berlin for Euruko 2011. It will take you less than 20 minutes to get to the venue from these places.
