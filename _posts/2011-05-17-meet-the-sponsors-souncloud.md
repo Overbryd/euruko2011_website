@@ -33,3 +33,4 @@ So come say hi and have a beer with us at Euruko! There will be at least four of
 
 Also, if you were unable to get a ticket to Euruko, we will also be attending [Music Hack Day Berlin] (http://berlin.musichackday.org/2011/) at MTV Networks, to hack on new music apps. Awesome ruby hackers are most welcome! 
 
+["Pictures by Wechsellook"](http://www.wechsellook.com/post/read/90)
