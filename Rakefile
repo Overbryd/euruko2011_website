@@ -10,7 +10,7 @@ task :post do
   post = <<-POST
 ---
 layout: post
-title: #{title}
+title: #{title.inspect}
 ---
 
 POST
