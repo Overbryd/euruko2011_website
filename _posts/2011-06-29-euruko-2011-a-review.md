@@ -25,14 +25,13 @@ So next to size, what matters is greatness in performance - to achieve this we n
 
 The second keynote was held by Paul Campbell, certainly not a classical keynote choice: But what he lacks in age he makes up for in passion for Ruby and great speaking credibility. The reactions we got during his keynote were as controversial as we hoped them to be:
 
-“Who is the keynote speaker today, and why's he so unprepared? #EuRuKo (what's he done, why's it a keynote, etc?)” - @codebreaker
+“Who is the keynote speaker today, and why's he so unprepared? #EuRuKo (what's he done, why's it a keynote, etc?)” - @codebreaker - [see the tweet](http://twitter.com/#!/codebeaker/status/74748847146024960)
 
-“Awesome keynote by Paul Campell this morning at #euruko; perhaps the most inspiring and empathetic I've ever attended." - @marcolz
+“Awesome keynote by Paul Campell this morning at #euruko; perhaps the most inspiring and empathetic I've ever attended." - @marcolz - [see the tweet](http://twitter.com/#!/marcolz/status/74762956419760129)
 
 Yes, we questioned the classical keynote speaker choices and think we did good! Paul showed us, and at least part of the audience, that all you need is passion and finesse to inspire people.
 
 Of course, the talks should be special too, talks that would unlikely be seen at any other conference, talks we haven’t seen before, talks we would like to hear about, talks about Ruby and the things our community values. 
-
 
 ![kino international stairs](/images/cinema_stairs.jpg)
 
@@ -64,7 +63,7 @@ Last but not least we would like to say thank you. Thank you for attending the c
 * Our main sponsors
 * New Thinking Communications for the kick ass WiFi
 * The Computer Chaos Club for helping us out with the internet
-* Mathias Meyer for being our photographer
+* Mathias Meyer for being our photographer. You can find his photo sets [here](http://www.flickr.com/photos/ipom/sets/72157627027463328/) and [here](http://www.flickr.com/photos/ipom/sets/72157627034845782/)
 * Alexander Lang for filming
 * Oli, the sound guy
 
