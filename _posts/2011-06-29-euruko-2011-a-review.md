@@ -71,4 +71,4 @@ See you 2012 in Amsterdam.
 
 The Euruko 2011 Team
 
-Lukas, Clemens, Christoph, John, Patrick, Tim and Thilo
+Lukas, Clemens, Christoph, John, Patrick, Tim, Nico and Thilo
