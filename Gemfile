@@ -1,3 +1,3 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 
-gem "compass", "0.11.beta.5"
+gem "github-pages"
