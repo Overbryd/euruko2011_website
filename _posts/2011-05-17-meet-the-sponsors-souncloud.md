@@ -2,8 +2,6 @@
 layout: post
 title: "Meet the sponsors: SoundCloud"
 ---
-![Souncd Cloud Office](http://www.wechsellook.com/postFiles/25b7acb5-ee99-4616-9eb3-b01718b02118.jpg)
-
 Hey there! My name's Rany and I'm pleased to announce that SoundCloud will be one of the main sponsors of Euruko this year. 
 
 Since its creation in 2007, SoundCloud has run on Rails. We began as a small music sharing platform in private beta, and have grown to become an increasingly essential site for audio sharing on the web with over 4 million users.
@@ -20,17 +18,10 @@ Scaling is obviously a big concern. We are not only utilizing proven solutions, 
 
 Check out some of our experiences on our Backstage blog. For example, here's an amazing post on [how we failed with MongoDB!](http://backstage.soundcloud.com/2011/04/failing-with-mongodb/)
 
-
-![Souncd Cloud Office](http://www.wechsellook.com/postFiles/f7859c89-bd90-4e43-bae8-31a11218c251.jpg)
-
 We have a strong focus on our API and its developer ecosystem. To assure the quality of our API and its documentation, we actually eat our own dog food: the iOS, Cocoa and Android development happens in-house. We have also launched [a shiny, new developer portal](http://developers.soundcloud.com) making it easier for developers to get started. Our App Gallery, currently showcases over [150 apps](http://soundcloud.com/apps) by external developers.
 
 Currently there are 30 developers running SoundCloud from Berlin. All major development takes place at "Silicon Rosenthaler Platz" in Mitte. Minor development takes place on our rooftop terrace, and we also have satellite offices in San Francisco and London.
 
-![Minor development in action](http://www.wechsellook.com/postFiles/6706584e-3ef1-4f4e-93e5-2bd6254bac45.jpg)
-
 So come say hi and have a beer with us at Euruko! There will be at least four of us Clouders in attendance - Tobi, Sebastian, Daniel, and me. Did I mention that [we're hiring like crazy?](http://soundcloud.com/jobs)
 
 Also, if you were unable to get a ticket to Euruko, we will also be attending [Music Hack Day Berlin] (http://berlin.musichackday.org/2011/) at MTV Networks, to hack on new music apps. Awesome ruby hackers are most welcome! 
-
-["Pictures by Wechsellook"](http://www.wechsellook.com/post/read/90)
